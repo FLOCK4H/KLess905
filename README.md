@@ -35,7 +35,7 @@ Needed pins are:
 9. Next time you power your board, the NRF will jam the 433.92Mhz frequency
 10. Use it responsibly!
 
-**Range: ??** # TODO: Test the range
+**Range: 2 meters from the remote control pointed directly, and being very close to the receiver. Effective jamming range is about 10m around, receiving (correct & full) signal in the way of jamming is impossible.**
 
 > [!CAUTION]
 > Project was made for educational purposes, any use outside of that context may result in legal consequences, jamming is illegal in most countries. Always assert permission to perform penetration testing!
