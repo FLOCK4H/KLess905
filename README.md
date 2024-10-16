@@ -16,8 +16,8 @@ There's no need to clone this repository, simply:
 2. Open Arduino IDE, create new sketch `File->New Sketch`
 3. Open preferences `File->Preferences`
 4. Add your board's manager URL (you can find online by searching `Arduino for "YourBoard"`
-4.1 For ESP32 -> https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-5. Connect NRF905 to your board
+For ESP32 -> https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+6. Connect NRF905 to your board
 
 Needed pins are:
 - VCC
